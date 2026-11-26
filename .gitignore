@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Cache do Hugging Face (baixado de novo automaticamente)
+**/hf_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
